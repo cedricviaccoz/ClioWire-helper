@@ -29,4 +29,4 @@ python PulsePostScript.py -first myAppName Mark@epfl.ch 1234 file_of_pulses
 
 ## How to organise the file containing pulses ##
 
-The script works now with a file where the pulses are separated by a line break ('\n'). I'm not sure if you might produce pulses that have line break, if this is the case take contact with me, or modify the script accordingly.
+The script works now with a file where the pulses are separated by a line break ('\n'). I'm not sure if you might produce pulses that have line break, if this is the case take contact with me, or modify the script accordingly. Note that this file should be located in the same place/folder of the script (otherwise you have to provide a filename that take into account the relative filepath)
