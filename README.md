@@ -1,4 +1,4 @@
-### Pulse posting script ###
+# Pulse posting script #
 
 ## Running the script ##
 
